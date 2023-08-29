@@ -1,0 +1,22 @@
+1.Merge Sort
+	->Normal Merge Sort
+	->4way Merge Sort
+2.Quick Sort
+	->Lomutos Partition
+	->Hoare Partition
+3.Binary Search 
+	->Iterative
+	->Recursive
+4.QuickSelect
+	->Normal
+	->Worst Case Linear Time SElection Optimization
+5.Maximum Sum Subarray
+	->Naive
+	->D&C
+6.Matrix Multiplication
+	->Naive
+	->D&C
+	->Strassens
+7.Kasturbas Long Integer Multiplication
+8.Self Balancing BST or AVL tree
+9.D&C DP (cp algorithm)
